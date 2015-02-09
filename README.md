@@ -1,6 +1,8 @@
 # QuickLook
 
-Keep track of all my QuickLook plugins.
+~~Keep track of all my QuickLook plugins.~~
+
+**Note:** I personally no longer use this repository since many of these QuickLook plugins can now be installed via [Homebrew Cask](http://caskroom.io/).
 
 ## Installation
 
